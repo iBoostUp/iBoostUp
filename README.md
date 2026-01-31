@@ -11,11 +11,11 @@ Read more about this issue here:
 To stay safe, **only download iBoostUp from official sources**:
 
 - **macOS**
-  - https://iboostup.com/download
+  - Official macOS download page https://iboostup.com/download
   - Apple **App Store** https://apps.apple.com/app/iboostup/id484829041?mt=12
 
 - **Windows**
-  - https://iboostup.com/windows/download
+  - Official Windows download page https://iboostup.com/windows/download
   - **Microsoft Store** https://apps.microsoft.com/detail/XPFM3P8H0F5MX1?hl=en-US&gl=US&ocid=pdpshare
 
 ❌ Do **not** download iBoostUp from GitHub repositories, third-party sites, or unofficial mirrors.

@@ -23,4 +23,5 @@ To stay safe, **only download iBoostUp from official sources**:
 ## 🔐 A Note on Software Safety
 This advice applies to **all software**, not just iBoostUp. Fake repositories, malicious binaries, spammers, and scammers are increasingly common. Always verify the **official website or trusted app stores** before downloading anything.
 
-**When in doubt, don’t download.**
+**When in doubt, don't download.**
+Here's an article from 2019 discussing Spyware on macOS and how to keep your Mac safe https://medium.com/@iBoostUp/using-iboostup-to-detect-malware-3525eb4fdc0

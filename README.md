@@ -1,16 +1,26 @@
-## Hi there 👋
+# iBoostUp for macOS and Windows — Official Downloads Only
 
-<!--
-**iBoostUp/iBoostUp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**iBoostUp** is a system optimization and cleanup tool available for **macOS** and **Windows**, designed to help users free up disk space, manage system clutter, and keep their computers running smoothly.
 
-Here are some ideas to get you started:
+## ⚠️ Beware of Fake GitHub Repositories
+There have been **fake GitHub repositories** and malicious links impersonating iBoostUp. These may distribute **unsafe or modified binaries**.  
+Read more about this issue here:  
+👉 https://iboostup.com/blog/ai-fake-repositories-github
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✅ Official and Safe Download Sources
+To stay safe, **only download iBoostUp from official sources**:
+
+- **macOS**
+  - https://iboostup.com/download
+  - Apple **App Store**
+
+- **Windows**
+  - https://iboostup.com/windows/download
+  - **Microsoft Store**
+
+❌ Do **not** download iBoostUp from GitHub repositories, third-party sites, or unofficial mirrors.
+
+## 🔐 A Note on Software Safety
+This advice applies to **all software**, not just iBoostUp. Fake repositories, malicious binaries, spammers, and scammers are increasingly common. Always verify the **official website or trusted app stores** before downloading anything.
+
+**When in doubt, don’t download.**
